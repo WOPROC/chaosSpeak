@@ -1,0 +1,13 @@
+## Interface: 100207
+## Title: Chaos_Speak
+## Author: FILLUP
+## Version: 0.0.1
+## Notes: Speak widly. You know you want to.
+## IconTexture: Interface\AddOns\Treant_Speak\Resources\treant
+## OptionalDeps: 
+## RequiredDeps: 
+## SavedVariables: chaosLang
+## DefaultState: Enabled
+
+chaosInformation.lua
+chaosSpeak.lua
